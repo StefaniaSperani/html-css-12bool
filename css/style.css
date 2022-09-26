@@ -1,0 +1,24 @@
+:root{
+
+}
+
+.debug{
+    border: 1px solid #ffffff;
+    background-color: #0065fa;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+.debug2{
+    border: 1px solid #ffffff;
+    background-color: #0065fa;
+    min-height: 50px;
+}
+.nest{
+    border: 1px solid #0065fa;
+    color: #ffffff;
+    background-color: #00e165;
+    padding: 5px;
+    text-align: center;
+}
