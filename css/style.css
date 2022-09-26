@@ -2,6 +2,7 @@
 
 }
 
+
 .debug{
     border: 1px solid #ffffff;
     background-color: #0065fa;
@@ -21,4 +22,8 @@
     background-color: #00e165;
     padding: 5px;
     text-align: center;
+}
+
+.bg{
+    background-color: rgb(73, 71, 71);
 }

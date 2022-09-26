@@ -1,9 +1,13 @@
+/* COMMON */
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+
+/* CONTAINER */
 .container-fluid{
     width: 100%;
 }
@@ -13,11 +17,15 @@
     margin: 0 auto;
 }
 
+
+/* FLEX */
 .row{
     display: flex;
     flex-flow: row wrap;
 }
 
+
+/* GRIGLIA/COLONNE */
 [class*="col-"] {
     flex: 0 0 auto;
 }
