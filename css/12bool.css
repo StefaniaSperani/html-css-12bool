@@ -14,6 +14,7 @@
 
 .container{
     max-width: 1200px;
+    height: 100vh;
     margin: 0 auto;
 }
 
@@ -24,7 +25,16 @@
     flex-flow: row wrap;
 }
 
+.d-flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
+.no-wrap{
+    display: flex;
+    flex-flow: row;
+}
 /* GRIGLIA/COLONNE */
 [class*="col-"] {
     flex: 0 0 auto;
